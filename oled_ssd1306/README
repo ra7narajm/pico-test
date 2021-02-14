@@ -1,0 +1,4 @@
+SSD 1306 based OLED demo.
+
+Source adapted for RPi Pico from,
+https://github.com/iliapenev/ssd1306_i2c.git
